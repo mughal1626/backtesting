@@ -1,0 +1,7 @@
+{
+  "name": "baseline-browser-mapping",
+  "version": "2.9.18",
+  "description": "Local fallback for baseline-browser-mapping to satisfy browserslist in restricted environments.",
+  "main": "index.js",
+  "license": "Apache-2.0"
+}
